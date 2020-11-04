@@ -1,6 +1,6 @@
 POV and lux scene files for mirror balls over checker planes. To be rendered at *unnecessary* resolutions
 
-![example](https://raw.github.com/discatte/gratuitous_raytracing/master/example.png)
+![example](https://raw.githubusercontent.com/discatte/gratuitous_raytracing/main/example.png)
 
 Example usage:
 --------------
